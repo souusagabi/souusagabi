@@ -1,7 +1,9 @@
 ## Hello! I'm Sarah, welcome to my GitHub.
 
 🏢 | cursando informática no Instituto Federal do Ceará.
-🏐 | atleta e apaixonada por esportes.
+
+🏐 | atleta e apaixonada por esportes. 
+
 ✨ | estudando Python, Java e Javascript.
 
 <div style="display: inline_block">
